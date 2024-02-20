@@ -1,0 +1,11 @@
+
+
+.menu-bar-conteiner >ul{
+    display: flex;
+
+}
+
+.menu-bar-conteiner > ul > li {
+    margin: 20px;
+    list-style: none;
+}
