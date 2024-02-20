@@ -20,6 +20,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+} 
+.small-card-Title>h1 >a{
+    text-decoration: none;
+
 }
 
 .separetion{
